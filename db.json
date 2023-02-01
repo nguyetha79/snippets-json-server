@@ -1,9 +1,170 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+  {
+    "doc_id": "0_T1_1",
+    "title": "Antioxidants: What You Need to Know - Health | HowStuffWorks",
+    "url": "https://health.howstuffworks.com/wellness/food-nutrition/facts/antioxidant.htm",
+    "description": "Antioxidants are nutrients (vitamins and minerals) as well as enzymes (proteins in your body that assist in chemical reactions). They are believed to play a... ",
+    "keywords": "Subfertility causes risk factors diagnosis treatment Antioxidant subfertile Infertility medicine"
+  },
+  {
+    "doc_id": "0_T1_2",
+    "title": "definition of subfertility by Medical dictionary",
+    "url": "https://medical-dictionary.thefreedictionary.com/subfertility",
+    "description": "diminished reproductive capacity; called also hypofertility. adj., adj subfer´tile. Miller-Keane Encyclopedia and Dictionary of Medicine, Nursing, and Allied...",
+    "keywords": "Subfertility causes risk factors diagnosis treatment Antioxidant subfertile Infertility medicine"
+  },
+  {
+    "doc_id": "1_T1_1",
+    "title": "Subfertility: Causes, Treatments, and Comparison to Infertility",
+    "url": "https://www.healthline.com/health/subfertility",
+    "description": "Subfertility means that trying to conceive is taking longer than what is typically expected. Although this can be frustrating, certain lifestyle changes can ...",
+    "keywords": "Subfertility causes risk factors diagnosis treatment Antioxidant subfertile Infertility medicine"
+  },
+  {
+    "doc_id": "1_T1_2",
+    "title": "Do antioxidants improve a woman's chances of conceiving?",
+    "url": "https://www.sciencedaily.com/releases/2013/08/130805092357.htm",
+    "description": "There is no high quality evidence that antioxidant supplements help to increase a woman's chances of having a baby, according to the results...",
+    "keywords": "Subfertility causes risk factors diagnosis treatment Antioxidant subfertile Infertility medicine"
+  },
+  {
+    "doc_id": "2_T1_1",
+    "title": "Antioxidants for male subfertility - Cochrane",
+    "url": "https://www.cochrane.org/CD007411/MENSTR_antioxidants-male-subfertility",
+    "description": "Antioxidant supplementation taken by subfertile males of a couple attending a fertility clinic may increase the chance of a live birth, however...",
+    "keywords": "Subfertility causes risk factors diagnosis treatment Antioxidant subfertile Infertility medicine"
+  },
+  {
+    "doc_id": "2_T1_2",
+    "title": "Infertility - NHS",
+    "url": "https://www.nhs.uk/conditions/infertility/",
+    "description": "Infertility is when a couple cannot get pregnant (conceive) despite having regular unprotected sex. Around 1 in 7 couples may have difficulty conceiving",
+    "keywords": "Subfertility causes risk factors diagnosis treatment Antioxidant subfertile Infertility medicine"
+  },
+  {
+    "doc_id": "0_T5_1",
+    "title": "Do Sealants Prevent Cavities? | Oral Health Tips | Colgate AU",
+    "url": "https://www.colgate.com.au/oral-health/sealants/do-sealants-prevent-cavities",
+    "description": "Dental sealants are used to prevent tooth decay. Teeth naturally have hollows and grooves (known as pits and fissure)",
+    "keywords": "sealant tooth decay prevent dental"
+  },
+  {
+    "doc_id": "0_T5_2",
+    "title": "Sealants, Adhesives & Fillers | Wickes.co.uk",
+    "url": "https://www.wickes.co.uk/Products/Nails,-Screws+Adhesives/Sealants,-Adhesives+Fillers/Sealants/c/1000006",
+    "description": "We have an extensive range of multi-purpose sealants for bonding, waterproofing and weatherproofing around the home with a professional finish. Sealants",
+    "keywords": "sealant tooth decay prevent dental"
+  },
+  {
+    "doc_id": "1_T5_1",
+    "title": "Tooth sealants: How do they work? Which teeth? What age?",
+    "url": "https://www.animated-teeth.com/tooth_sealants/t1_sealing_teeth.htm",
+    "description": "And as such, the tooth is now at less risk of developing a cavity. Animation illustrating how a sealant helps to protect against tooth decay ",
+    "keywords": "sealant tooth decay prevent dental"
+  },
+  {
+    "doc_id": "1_T5_2",
+    "title": "Tooth Decay Prevention: 8 Daily Dental Care Tips - WebMD",
+    "url": "https://www.webmd.com/oral-health/guide/tooth-decay-prevention",
+    "description": "To prevent tooth decay: Brush your teeth at least twice a day with a fluoride-containing toothpaste. Preferably, brush after each meal and especially before...",
+    "keywords": "sealant tooth decay prevent dental"
+  },
+  {
+    "doc_id": "2_T5_1",
+    "title": "School Sealant Programs | Division of Oral Health | CDC",
+    "url": "https://www.cdc.gov/oralhealth/dental_sealant_program/index.htm",
+    "description": "Dental sealants are thin coatings that when painted on the chewing surfaces of the back teeth (molars) can prevent cavities (tooth decay) for many years.",
+    "keywords": "sealant tooth decay prevent dental"
+  },
+  {
+    "doc_id": "2_T5_2",
+    "title": "Pit and Fissure Sealants for Preventing Dental Decay in Permanent Teeth",
+    "url": "https://health.gov/healthypeople/tools-action/browse-evidence-based-resources/pit-and-fissure-sealants-preventing-dental-decay-permanent-teeth",
+    "description": "In this Cochrane systemic review, the Cochrane Collaborative found that resin-based sealant is effective in preventing tooth decay in children for up to 4...",
+    "keywords": "sealant tooth decay prevent dental"
+  },
+  {
+    "doc_id": "0_T8_1",
+    "title": "Jet Lag Prevention - Travel Tips - USA Today",
+    "url": "https://eu.usatoday.com/",
+    "description": "Jet lag hits in ways that can make your trip a nightmare. Fatigue, irritability and nausea combine to overwhelm the whole travel experience, driving the fun ...",
+    "keywords": "jet lag melatonin sleep disorder insomnia anxiety clinical time zone"
+  },
+  {
+    "doc_id": "0_T8_2",
+    "title": "Can Melatonin Help with Jet Lag?",
+    "url": "https://jetlags.org/jetlag-information/can-melatonin-help-with-jet-lag/",
+    "description": "Melatonin is a well-known dietary supplement that was said to quell jet lag and treat insomnia. It has also been known to help with other things also such as anxiety, fatigue, headaches, ...",
+    "keywords": "jet lag melatonin sleep disorder insomnia anxiety clinical time zone"
+  },
+  {
+    "doc_id": "1_T8_1",
+    "title": "Can Melatonin Prevent or Treat Jet Lag? - AAFP",
+    "url": "https://www.aafp.org/pubs/afp/issues/2002/1201/p2087.html",
+    "description": "Melatonin is remarkably effective in preventing or reducing jet lag, and occasional short-term use appears to be safe.",
+    "keywords": "jet lag melatonin sleep disorder insomnia anxiety clinical time zone"
+  },
+  {
+    "doc_id": "1_T8_2",
+    "title": "Melatonin for Jet Lag: Does It Work? - Healthline",
+    "url": "https://www.healthline.com/health/melatonin-for-jet-lag",
+    "description": "Melatonin has been extensively studied as a treatment for jet lag as well as some sleep disorders, such as insomnia. Much of the research... ",
+    "keywords": "jet lag melatonin sleep disorder insomnia anxiety clinical time zone"
+  },
+  {
+    "doc_id": "2_T8_1",
+    "title": "About Mayo Clinic - About Us",
+    "url": "https://www.mayoclinic.org/about-mayo-clinic",
+    "description": "Mayo Clinic is a nonprofit organization committed to clinical practice, education and research, providing expert, whole-person care to everyone who needs...",
+    "keywords": "jet lag melatonin sleep disorder insomnia anxiety clinical time zone"
+  },
+  {
+    "doc_id": "2_T8_2",
+    "title": "Jet Lag | Travelers' Health - CDC",
+    "url": "https://wwwnc.cdc.gov/travel/page/jet-lag",
+    "description": "Jet lag is caused by a mismatch between a person's normal daily rhythms and a new time zone. It is a temporary sleep problem that usually occurs when you...",
+    "keywords": "jet lag melatonin sleep disorder insomnia anxiety clinical time zone"
+  },
+  {
+    "doc_id": "0_T10_1",
+    "title": "10 Best Treatments for Lower Back Pain Relief",
+    "url": "https://www.prevention.com/health/a20461629/highly-effective-treatments-for-lower-back-pain/",
+    "description": "Even as you practice patience, a non-steroidal anti-inflammatory drug (NSAID), such as ibuprofen (Motrin, Advil) or naproxen (Aleve) can help ...",
+    "keywords": "lower back pain ibuprofen physical therapy traction low-back"
+  },
+  {
+    "doc_id": "0_T10_2",
+    "title": "Lower Back Pain Treatment Options - Healthline",
+    "url": "https://www.healthline.com/health/lower-back-pain-treatment-options",
+    "description": "Treat lower back pain with a hot or cold compress. According to the NINDS, evidence suggests that using heat and ice packs can ...",
+    "keywords": "lower back pain ibuprofen physical therapy traction low-back"
+  },
+  {
+    "doc_id": "1_T10_1",
+    "title": "Traction for Back Pain Relief - MelioGuide",
+    "url": "https://melioguide.com/physical-therapy-continuing-education/traction-back-pain-treatment/",
+    "description": "In this ongoing series on Physical Therapy continuing education, I show changes you can do to your traction for back pain for patients who...",
+    "keywords": "lower back pain ibuprofen physical therapy traction low-back"
+  },
+  {
+    "doc_id": "1_T10_2",
+    "title": "Lumbar Traction - Physiopedia",
+    "url": "https://www.physio-pedia.com/Lumbar_Traction",
+    "description": "Lumbar traction is the process of applying a stretching force to the lumbar vertebrae through body weight, weights, and/or pulleys to distract individual ...",
+    "keywords": "lower back pain ibuprofen physical therapy traction low-back"
+  },
+  {
+    "doc_id": "2_T10_1",
+    "title": "Is traction effective in treating low-back pain?",
+    "url": "https://www.iwh.on.ca/summaries/research-highlights/is-traction-effective-in-treating-low-back-pain",
+    "description": "Based on current evidence, traction as a single treatment is not effective for patients with low-back pain, with or without sciatica.",
+    "keywords": "lower back pain ibuprofen physical therapy traction low-back"
+  },
+  {
+    "doc_id": "2_T10_2",
+    "title": "Low Back Pain Fact Sheet",
+    "url": "https://www.ninds.nih.gov/low-back-pain-fact-sheet",
+    "description": "NINDS-funded studies are contributing to a better understanding of why some people with acute low back pain recover fully while others go on tojkkj gkgu ",
+    "keywords": "lower back pain ibuprofen physical therapy traction low-back"
+  }
+]
